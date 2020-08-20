@@ -1132,7 +1132,7 @@ p {
 /*============================Responsive CSS=========================*/
 
 .gray-bg {
-    background-image: url(../img/bg/bg-pattern.png);
+    background-image: url(../img/bg/bg-pattern.webp);
     width: 100%;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
