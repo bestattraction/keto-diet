@@ -234,7 +234,7 @@ p {
 
 /*===============================Yourself Area=====================*/
 .yourself-area {
-    background-image: url(../img/bg/1-1.png);
+    background-image: url(../img/bg/1-1.webp);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -330,7 +330,7 @@ p {
 
 /*===============================Deal Area=====================*/
 .deal-area {
-    background-image: url(../img/bg/2-1.png);
+    background-image: url(../img/bg/2-1.webp);
     width: 100%;
     background-repeat: no-repeat;
 
@@ -400,8 +400,7 @@ p {
 
 /*===============================Advice Area=====================*/
 .advice-area {
-    background-image: url(../img/bg/2-2.png);
-    width: 100%;
+    background-image: url(../img/bg/2-2.webp
     background-repeat: no-repeat;
 
     min-height: 450px;
@@ -487,7 +486,7 @@ p {
 
 /*==============================Solution Area=================*/
 .solution-area {
-    background-image: url(../img/bg/4-1.png);
+    background-image: url(../img/bg/4-1.webp);
     width: 100%;
     background-repeat: no-repeat;
     min-height: 460px;
@@ -560,7 +559,7 @@ p {
 
 /*==========================Unfair Area============================*/
 .unfair-area {
-    background-image: url(../img/bg/4-2.png);
+    background-image: url(../img/bg/4-2.webp);
     width: 100%;
     background-repeat: no-repeat;
     min-height: 390px;
@@ -580,7 +579,7 @@ p {
 
 /*===========================Reason Area========================*/
 .reason-banner-area {
-    background-image: url(../img/bg/5-1.png);
+    background-image: url(../img/bg/5-1.webp);
     width: 100%;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -772,7 +771,7 @@ p {
 /*=============================With Keto Area========================*/
 .with-keto-area {
     position: relative;
-    background-image: url(../img/bg/7-1.png);
+    background-image: url(../img/bg/7-1.webp);
     width: 100%;
     background-repeat: no-repeat;
 
@@ -829,7 +828,7 @@ p {
 
 /*============================Meal plan Area=======================*/
 .meal-plan-area {
-    background-image: url(../img/bg/8.png);
+    background-image: url(../img/bg/8.webp);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1031,7 +1030,7 @@ p {
 
 /*============================Footer Area===========================*/
 .footer-area {
-    background-image: url(../img/bg/footer-img.png);
+    background-image: url(../img/bg/footer-img.webp);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
